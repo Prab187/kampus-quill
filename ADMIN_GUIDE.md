@@ -1,5 +1,7 @@
 # Admin guide: set up your Mac, change the app, ship it
 
+The detailed Mac set-up and "change it and see it" steps are in `MAC_DEVELOPMENT_GUIDE.md`. This guide covers Apple access and shipping.
+
 For the person taking over Kampus Quill. Follow the parts in order. Each step says what you should see. If something does not match, stop and read the Troubleshooting table at the end.
 
 This guide works on any recent Mac laptop, including a MacBook Neo. The only real needs are: a macOS version the latest Xcode supports, about 40 GB of free disk space, and an internet connection. If `flutter doctor` asks for **Rosetta** on an Apple-silicon Mac, run the command it prints.
