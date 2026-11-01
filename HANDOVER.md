@@ -1,5 +1,7 @@
 # Handover: Kampus Quill
 
+**Start with `ADMIN_GUIDE.md`**: step-by-step set-up of your Mac, changing the app (with Claude Code), and shipping it. Fill in `REQUIREMENTS.md` with what you want the app to do. `CLAUDE.md` is the project's rulebook for Claude Code.
+
 You are taking over a small iPhone app. This is everything you need to start.
 
 ## What it is

@@ -12,6 +12,8 @@ Colours follow the Colchester Royal Grammar School website (purple, green
 stripe, gold, white, serif headings). The school's crest is **not** used. See
 "Before you submit" below.
 
+New here? Read **`HANDOVER.md`** and **`ADMIN_GUIDE.md`** first.
+
 ## What is in this folder
 
 | Path | What it is |
